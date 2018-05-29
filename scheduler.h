@@ -1,8 +1,8 @@
 #ifndef SCHEDULER_H
 #define SCHEDULER_H
 
-#include "threading.h"
-#include "cst_memory.h"
+#include "wrapers/threading.h"
+#include "wrapers/memory.h"
 
 #include <list>
 #include <utility>
